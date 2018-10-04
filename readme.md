@@ -7,4 +7,4 @@ My bachelor thesis and research supplements this approach by providing a tool fo
 The bachelor thesis was written in German and all the code was written inside R.
 
 # Example data and code
-The framework was tested by collecting projects that tried to finance the design, production and distribution of playing cards on Kickstarter. The collected data can be seen inside the example-data folder.
+The framework was tested by collecting projects that tried to finance the design, production and distribution of playing cards on Kickstarter. The collected data can be seen inside the `example-data` folder.
